@@ -1,9 +1,5 @@
 <h1 align="center">
-    NLW#5 - <span style="color: #4B275F"><b>Trilha de Elixir</b></span>
-    <br><br>
-    <a href="https://elixir-lang.org/" target="_blank">
-      <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
-    </a>
+    <b>NLW#5 <p style="color: #4B275F">Trilha de Elixir</p></b>
 </h1>
 
 <p align="center">
